@@ -38,5 +38,5 @@ config :dragon, Dragon.Repo,
   username: "root",
   password: "mysql",
   database: "dragon_dev",
-  hostname: "192.168.99.100",
+  hostname: "localhost",
   pool_size: 10
